@@ -5,7 +5,7 @@ $help_info = <<HELP
                     KanaHelper
 ====================================================
 = This is a tiny Ruby program that aims at helping =
-= myself remember japanese 50 kanas.               =
+= myself remember japanese 50 kanas.                =
 = (see http://en.wikipedia.org/wiki/Goj%C5%ABon)   =
 ====================================================  
 
